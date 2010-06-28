@@ -1,0 +1,21 @@
+I'd like to solve the problems in the Project Euler in Ruby 1.9.
+
+The goal is not only to do some mind hacking, but also to practise some coding habits or using some special tools.
+
+A problem is figured out in a way seemingly complicated. I, however, consider it worth, especially when I want some mind exercise and handy skills.
+
+Therefore, the procedure contains a few phases. It's highly kind of TDD, at least which I'm expecting.
+
+RED: I'd love to convert the given conditions into test cases.
+
+GREEN: I try to implement it.
+
+REFACTORY: The point is the performance, probably with more sophiscated algorithm.
+
+FAQ:
+1. Why Ruby 1.9?
+ I'm learning it, and I've found that the performance is really improved.
+2. Why Rspec instead of UnitTest?
+ According to Obie, it's more attractable. I just want a try.
+3. How often to upate?
+ To be frank, I have no idea. It doesn't matter. After all, you can folk at any time you like.
